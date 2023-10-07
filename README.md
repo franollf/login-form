@@ -1,6 +1,4 @@
 
----
-
 ## Login and Account Creation App
 
 ### Overview
@@ -27,15 +25,7 @@ This Python application provides a basic login and account creation system with 
 - tkinter library (usually included with Python)
 
 ### File Structure
-- `login_app.py`: The main Python script containing the application code.
+- `login.py`: The main Python script containing the application code.
 - `accounts.txt`: A text file for storing user account data.
 
-### License
-This project is licensed under the [MIT License](LICENSE).
 
-### Disclaimer
-This application is a simple demonstration and may not provide robust security. It's intended for educational purposes and can serve as a starting point for more complex login systems.
-
----
-
-Feel free to modify and expand upon this description to suit your GitHub repository's needs.
