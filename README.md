@@ -12,7 +12,7 @@ This Python application provides a basic login and account creation system with 
 
 ### Usage
 1. Clone or download this repository to your local machine.
-2. Run the Python script (`login_app.py`).
+2. Run the Python script (`login.py`).
 3. Use the GUI to create new accounts and log in.
 
 ### Instructions
